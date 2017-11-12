@@ -1,8 +1,0 @@
-title: My Website
-description: 
-google_analytics: 
-show_downloads: true
-theme: jekyll-theme-tactile
-
-gems:
-  - jekyll-mentions
